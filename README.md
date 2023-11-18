@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gorka</h1>
 
 <p align="center">
-   <img src="https://github.com/gorgalla/42_BCN_COMMON_CORE/blob/main/images/42_banner_2.png">
+   <img src="https://github.com/gorgalla/42_BCN_COMMON_CORE/blob/main/background_images/42_banner_2.png">
 </p>
 
 <p align="center">
