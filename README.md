@@ -62,5 +62,6 @@ Currently focused on <b>Python</b> and <b>QA Automation</b>, learning by buildin
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gorgalla&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorgalla&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8&hide=html,css" />
 </p>
+
