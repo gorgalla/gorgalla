@@ -1,50 +1,60 @@
 <h1 align="center">Hi, I'm Gorka 👋</h1>
-<h3 align="center">Python · QA Automation · Software Engineering</h3>
+<h3 align="center">Junior Backend Developer | Python Specialist</h3>
 
 <p align="center">
-I enjoy building, breaking and improving software through testing and automation.<br>
-Currently focused on <b>Python</b> and <b>QA Automation</b>, learning by building real projects.
+I build scalable APIs and robust backend systems using <b>Python</b>.<br>
+Focusing on clean code, modern architectures (REST), and containerized environments.
 </p>
 
 ---
 
 ## 🧠 About me
 
-- 🐍 Python developer with a strong focus on **logic and code quality**
-- 🧪 Interested in **QA Automation** and software testing
-- 🧩 I learn by building projects, testing edge cases and refactoring
-- 🚀 Goal: join a tech company as a **QA Tester / QA Automation Junior**
+- 🐍 **Backend Focused**: Expertly navigating Python, from clean functional code to complex frameworks.
+- 🏗️ **Architectural Mindset**: Building with **Django** and **FastAPI**, balancing robustness with performance.
+- 🗄️ **Data Management**: Experience with both Relational (**PostgreSQL**) and NoSQL (**MongoDB**) databases.
+- 🐋 **DevOps Friendly**: Streamlining development workflows using **Docker** and **Docker Compose**.
+- 🚀 Goal: Contributing to high-impact projects as a **Junior Backend Developer**.
 
 ---
 
-## 🛠️ Technologies I'm working with
+## 🛠️ Tech Stack
 
-### Core
+### Backend & Core
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" title="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
 
-### Testing & Automation
+### Databases & Infrastructure
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
 </p>
 
-### Currently learning
-- Writing automated tests with **pytest**
-- Testing edge cases and error handling
-- Improving test structure and readability
-- Using GitHub as a professional portfolio
+### Tools & Standards
+- **Dependency Management**: UV, Poetry, Pipenv.
+- **Code Quality**: Ruff, Black, Flake8 (PEP 8 compliance).
+- **Testing**: Pytest, Unit Testing.
 
 ---
 
-## 📌 What you’ll find in this GitHub
+## 🚀 Key Projects
 
-- Python projects built from scratch
-- Automated tests for real logic (not toy examples)
-- Clean, readable code with a focus on correctness
-- Continuous improvement and refactoring
+### 📰 [AI-Powered News Aggregator](enlace-a-tu-repo)
+*Python Intermedio | OpenAI API | NewsAPI*
+- Built a modular CLI tool to filter and summarize global news using AI.
+- Implemented **Type Hints**, **Custom Exceptions**, and **Environment Variables** for professional-grade code.
+- Managed dependencies with **UV** for high-performance builds.
+
+### ⚡ [FastAPI & MongoDB Microservice](enlace-a-tu-repo)
+*FastAPI | MongoDB | Docker Compose*
+- Developed a high-performance REST API with asynchronous endpoints.
+- Fully containerized using **Docker**, orchestrating the API and Database services.
 
 ---
 
@@ -64,4 +74,3 @@ Currently focused on <b>Python</b> and <b>QA Automation</b>, learning by buildin
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorgalla&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8&hide=html,css" />
 </p>
-
